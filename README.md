@@ -8,8 +8,8 @@ This project is a Streamlit application that fetches and analyzes news articles 
 - **Fetch Articles**: Retrieves articles published in the last three days.
 - **Sentiment Analysis**: Analyzes the sentiment of the fetched articles and provides recommendations on whether to buy, sell, or hold based on the sentiment.
 
-## Demo
-![Demo Screenshot](path/to/your/demo_image.png)
+## App Demo
+![Demo Screenshot](https://github.com/ThinhHoang1/ThinhHoang1-News-Sentiment-Analysis-Application/blob/master/pic_demo_app/demo_news_app.png)
 ## Technologies Used
 - **Programming Language**: Python
 - **Framework**: Streamlit
